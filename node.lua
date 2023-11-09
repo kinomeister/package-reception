@@ -32,7 +32,7 @@ local LAYOUT_CONFIG = {
         bottom = 37,
         clock_width = 300 * WIDTH/1920,
 
-        default_font_size = 25,
+        default_font_size = 5,
         h1_font_size = 45,
         h2_font_size = 30,
     },
@@ -41,7 +41,7 @@ local LAYOUT_CONFIG = {
         bottom = 50,
         clock_width = 300 * WIDTH/1920,
 
-        default_font_size = 35,
+        default_font_size = 5,
         h1_font_size = 70,
         h2_font_size = 50,
     },
